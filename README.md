@@ -8,6 +8,7 @@ Topologia e cosntituida por:
 - 2 roteadores
 - 2 switch 
 
+
 Topologia montada em forma de alteres. 
 
 
